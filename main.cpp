@@ -3,7 +3,7 @@
 int main()
 {
 
-    // this is template for your app
+    std::cout << "Hello world" << std::endl;
 
     return 0;
 }
